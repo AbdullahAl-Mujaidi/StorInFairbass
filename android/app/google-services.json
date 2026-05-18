@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756390333326",
+    "project_id": "smart-shop-da51a",
+    "storage_bucket": "smart-shop-da51a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756390333326:android:a08253c22b2f8ae9e3b2df",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnETLhHnIN8yYkzspw-sj5aaYM90PJKGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
